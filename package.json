@@ -1,0 +1,20 @@
+{
+  "name": "cissino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "cissino": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.3.0",
+    "ora": "^6.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
